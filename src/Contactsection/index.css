@@ -1,0 +1,14 @@
+.contact-section {
+    background-color: rgb(187, 185, 184);
+    background-size:contain;
+    height: 100vh;
+    padding-left: 25px;
+    margin: 0%;
+
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}

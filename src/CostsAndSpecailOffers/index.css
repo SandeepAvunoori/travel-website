@@ -1,0 +1,8 @@
+.cost-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(185, 191, 189);
+    background-size: contain;
+    padding-left: 25px;
+}

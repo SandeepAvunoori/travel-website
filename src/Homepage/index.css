@@ -1,0 +1,16 @@
+.header-container {
+    align-items: center;
+    padding: 25px;
+}
+.main-heading{
+    color: rgb(255, 0, 0);
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.image-text-section{
+    display: flex;
+    flex-direction: row;
+}
+.heading {
+    font-size: xx-large;
+}
